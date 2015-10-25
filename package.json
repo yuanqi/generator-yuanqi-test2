@@ -1,0 +1,29 @@
+{
+  "name": "generator-yuanqi-test2",
+  "version": "1.0.0",
+  "description": "desc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanqi/generator-yuanqi-test2.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanqi/generator-yuanqi-test2/issues"
+  },
+  "files": [
+    "app",
+    "router"
+  ],
+  "homepage": "https://github.com/yuanqi/generator-yuanqi-test2#readme",
+  "dependencies": {
+    "yeoman-generator": "~0.21.1"
+  }
+}
